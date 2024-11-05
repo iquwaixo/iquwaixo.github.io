@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iquwaixo.github.io/HMt/sitemap_index.txt
+Sitemap: https://iquwaixo.github.io/iHa/sitemap_index.txt
+Sitemap: https://iquwaixo.github.io/wrg/sitemap_index.txt
+Sitemap: https://iquwaixo.github.io/ymR/sitemap_index.txt
